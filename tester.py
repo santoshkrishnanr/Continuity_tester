@@ -1,4 +1,3 @@
-#!/bin/bash
 
 from pyb import Pin
 import time
