@@ -17,22 +17,22 @@ the front panel of the project is shown below.
  and the other end of the cable is connected to the right-hand side of the panel (for easy plug-in and out this opposite direction is selected)
  * When the TEST button is pressed. These are the condition checked and shown as output.
  
-        * **Proper Connection** IF all the wire in the cable is connected Proper 
+        * Proper Connection IF all the wire in the cable is connected Proper 
         LED 1,2,3,4,5 glows.
         
-        * **Short Circuit** IF any wire in the cable is damaged or shorted 
+        * Short Circuit IF any wire in the cable is damaged or shorted 
         LED representing Short circuit glows and just showing the
         properly connected wire in LED 1,2,3,4,5 with a buzzer sound!!
         
-        * **InterConnection** IF any wire in the cable is interconnected 
+        * InterConnection IF any wire in the cable is interconnected 
         LED representing InterConnection glows and just shows the 
         properly connected wire in LED 1,2,3,4,5 with a buzzer sound!!
         
-        * **NO Connection** IF any or none of the wire is not connected 
+        * NO Connection IF any or none of the wire is not connected 
         LED representing NO Conenction glows and none of the LED between (1-5) glows for 
         NO Connection and with a buzzer sound!
         
-        ***There won't be any buzzer sound if all the wire are connected proper!!
+        * * There won't be any buzzer sound if all the wire are connected proper!!
 
  * until the board is reset the Buzzer won't stops even after the cable is removed showing fault in connection.
 
